@@ -5,4 +5,7 @@ module.exports = {
     '@vue/eslint-config-airbnb-with-typescript',
     'plugin:prettier/recommended',
   ],
+  rules: {
+    'import/no-extraneous-dependencies': 0,
+  }
 };
