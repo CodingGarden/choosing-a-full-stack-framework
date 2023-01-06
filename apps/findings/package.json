@@ -1,0 +1,15 @@
+{
+  "name": "findings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md -w  --theme night --highlightTheme hybrid --port 1337 --css styles.css README.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^5.4.0"
+  }
+}

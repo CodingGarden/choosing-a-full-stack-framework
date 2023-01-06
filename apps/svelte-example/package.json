@@ -12,7 +12,7 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"dependencies": {
-		"@auth/core": "^0.1.4",
+		"@auth/core": "^0.2.5",
 		"@auth/sveltekit": "^0.1.6",
 		"@next-auth/prisma-adapter": "^1.0.5",
 		"db": "*"

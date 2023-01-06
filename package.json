@@ -17,5 +17,8 @@
     "node": ">=14.0.0"
   },
   "packageManager": "npm@8.15.0",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^5.4.0"
+  }
 }

@@ -11,7 +11,7 @@
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
     "@nuxtjs/tailwindcss": "^6.2.0",
-    "@sidebase/nuxt-auth": "^0.3.0",
+    "@sidebase/nuxt-auth": "^0.3.2",
     "@vue/eslint-config-airbnb-with-typescript": "^7.0.0",
     "eslint": "^8.30.0",
     "eslint-config-prettier": "^8.5.0",
@@ -21,7 +21,7 @@
   "dependencies": {
     "@next-auth/prisma-adapter": "^1.0.5",
     "daisyui": "^2.46.0",
-    "next-auth": "^4.18.0",
-    "db": "*"
+    "db": "*",
+    "next-auth": "^4.18.0"
   }
 }

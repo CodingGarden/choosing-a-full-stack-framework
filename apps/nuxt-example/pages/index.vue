@@ -12,5 +12,4 @@
 <script lang="ts" setup>
 // const { users } = await $fetch('/api/users');
 const { data } = await useFetch('/api/users');
-console.log('loaded users...', data?.value?.users);
 </script>

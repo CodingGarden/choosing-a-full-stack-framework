@@ -6,10 +6,12 @@ export const load = (async () => {
 			{
 				name: 'im done',
 				valid: true,
+				awesome: true,
 			},
 			{
 				name: 'okay',
 				valid: false,
+				awesome: true,
 			},
 		],
 	};
